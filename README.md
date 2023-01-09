@@ -3,7 +3,7 @@
 
 - 😄 I'm passionate about **using technology to solve real-world problems, that address daily needs and challenges**.
 
-- 🔭 I’m currently working on *an NFL game ranking app and completing my CS degree**
+- 🔭 I’m currently working on **an NFL game ranking app and completing my CS degree**
 
 - 🌱 I’m currently learning **more skills in Python.**
 
