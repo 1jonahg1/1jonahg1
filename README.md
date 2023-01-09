@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **more skills in Python.**
 
-- ⚡ Fun fact **I love rock climbing!**
+- ⚡ Fun fact - **I love rock climbing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
