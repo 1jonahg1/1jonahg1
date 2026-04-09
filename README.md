@@ -3,10 +3,6 @@
 
 - 😄 I'm passionate about **using technology to solve real-world problems, that address daily needs and challenges**.
 
-- 🔭 I’m currently working on **an NFL game ranking app and completing my CS degree**
-
-- 🌱 I’m currently learning **more skills in Python.**
-
 - ⚡ Fun fact - **I love rock climbing!**
 
 <h3 align="left">Connect with me:</h3>
